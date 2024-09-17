@@ -2,6 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
+    font-weight:heavy;
     background: linear-gradient(to right, #FFFAF0, #E6E6FA); /* Cream to Pale Purple */
     background-size: cover;
     min-height: 100vh; /* Ensure background covers full height */
@@ -13,7 +14,7 @@ header {
     top: 0;
     left: 0;
     right: 0;
-    background:  #046A38;
+    background: #046A38;
     color: white;
     padding: 10px 0;
     text-align: center;
@@ -41,7 +42,7 @@ nav {
     left: 0;
     right: 0;
     bottom:auto;
-    background: linear-gradient(to right,#FF671F, #FFFFFF, #046A38);
+    background: linear-gradient(to right, #FF671F, #FFFFFF, #046A38);
     padding: 10px 0;
     z-index: 999;
 }
@@ -68,7 +69,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    background-color: #046A38;
+    background-color: #FF671F;
     color: #fff;
     border-radius: 10px;
 }
@@ -102,7 +103,7 @@ nav ul li a:hover {
 }
 
 .dropdown-menu li a:hover {
-    background-color: #046A38;
+    background-color: #FF671F;
     color: #fff;
 }
 
@@ -118,22 +119,22 @@ section {
     border: 2px solid #000;
 }
 h2 {
-    color:  #046A38; /* Green color */
+    color: #046A38; /* Green color */
     font-size: 1.8em;
     text-align: center;
-    background-color:  #046A38;
+    background-color: #046A38;
     color: white;
     padding: 10px;
     border-radius: 5px;
 }
 
 h3 {
-    color:  #046A38; /* Green color */
+    color: #046A38; /* Green color */
     font-size: 1.4em;
 }
 
 h4 {
-    color:  #046A38; /* Green color */
+    color: #046A38; /* Green color */
     font-size: 1.2em;
 }
 
@@ -153,7 +154,7 @@ hr {
 .day {
     margin-bottom: 20px;
     padding: 10px;
-    border-left: 4px solid  #046A38; /* Green left border for each day */
+    border-left: 4px solid #046A38; /* Green left border for each day */
     background: #F8F8F8;
     border-radius: 5px;
 }
@@ -182,7 +183,7 @@ h3 {
 hr
 /* Styling for the overall plan headings (h2) */
 h2 {
-    background-color:  #046A38;
+    background-color: #046A38;
     color: white;
     padding: 10px;
     border-radius: 5px;
