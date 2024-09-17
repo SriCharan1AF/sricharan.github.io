@@ -41,7 +41,7 @@ nav {
     left: 0;
     right: 0;
     bottom:auto;
-    background: linear-gradient(to right, #046A38, #FFFFFF,  #046A38);
+    background: linear-gradient(to right,#FF671F, #FFFFFF, #046A38);
     padding: 10px 0;
     z-index: 999;
 }
